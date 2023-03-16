@@ -14,6 +14,6 @@
     height="480"
     xlink:href="pasteboard.png"
     preserveAspectRatio="xMidYMid meet"
-    style="filter: brightness(6) contrast(2) saturate(0);"
+    style="filter: brightness(1) contrast(1) saturate(0);"
   />
 </svg>
